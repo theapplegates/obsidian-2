@@ -22,7 +22,7 @@ aliases:
 ---
 ![Vault CMS logo](attachments/vault-cms-cover.png)
 
-## Overview. Let's test the sync function by sneaking in this stupid line.
+## Overview. Let's test the sync function by sneaking in this stupid line. It did.
 
 All plugins, key bindings, and the theme can be customized to your liking, but this is what's on by default.
 
